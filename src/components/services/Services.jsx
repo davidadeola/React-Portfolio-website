@@ -6,8 +6,9 @@ const Services = () => {
     <section id='services'>
       <h1>Services</h1>
       <h4>what i do</h4>
+      <p>This is the first paragraph</p>
     </section>
   )
 }
 
-export default Services
+export default Services;
