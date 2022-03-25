@@ -8,7 +8,9 @@ function Experience() {
       <h2>My Experience</h2>
 
       <div className="container experience__container">
-        <div className="experience__frontend"></div>
+        <div className="experience__frontend">
+          <p>I have about 4+ years of experience as a react developer</p>
+        </div>
         <div className="experience__backend">
           
         </div>
