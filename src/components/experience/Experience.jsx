@@ -9,7 +9,6 @@ function Experience() {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <p>I have about 4+ years of experience as a react developer</p>
         </div>
         <div className="experience__backend">
           
